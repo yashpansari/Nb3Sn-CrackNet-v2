@@ -1,4 +1,5 @@
 # Nb3Sn-CrackNet-v2
+This is the declassified non-production version (and thus does not include all modules used in prod) of a codebase used in a research project at LBNL.
 A package to identify, separate, extract, and analyse strands, filaments, and cracks, from stitched microscopic cross-sectional images of Nb3Sn Magnet Superconducting Coils. This algorithm was developed by me in a research project for the US Department of Energy, in coordination with research scientists and engineers at CERN and Lawrence Berkeley National Laboratory's ATAP division. The abstract, explanations of the algorithm, proof of results, test images, site of deployment, etc. are confidential information but cleared personnel could email me for more information on these.
 
 # Deployment
